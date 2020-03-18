@@ -1,7 +1,7 @@
 {
-  "name": "Srivatsan-first-blog",
+  "name": "srivatsanmurali",
   "private": true,
-  "description": "Why I love AI",
+  "description": "",
   "version": "0.1.0",
   "author": "Srivatsan Murali <srivatsan4you@gmail.com>",
   "bugs": {
@@ -39,7 +39,7 @@
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": ["gatsby"],
+  "keywords": [],
   "license": "MIT",
   "main": "n/a",
   "repository": {
