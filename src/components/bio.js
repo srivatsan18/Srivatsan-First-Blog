@@ -58,8 +58,14 @@ const Bio = () => {
       />
       <p>
         Written by <strong>{author.name}</strong> {author.summary}
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`} />
+        {``}
+        <a
+          href={`https://www.linkedin.com/in/srivatsan-murali-009479b6/${
+            social.linkedin
+          }`}
+        >
+          Follow me
+        </a>
       </p>
     </div>
   )

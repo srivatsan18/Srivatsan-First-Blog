@@ -3,13 +3,14 @@ module.exports = {
     title: `Srivatsan Murali's Blog`,
     author: {
       name: `Srivatsan Murali`,
-      summary: `An Undergraduate Student who loves Learning`,
+      summary: `An Undergraduate Student who loves Learning.  `,
     },
-    description: `Learning the art of Blogging.`,
+    description: `Love Learning`,
     siteUrl: `https://srivatsanmuraliblog.netlify.com`,
     social: {
       twitter: `SrivatsanMurali`,
       instagram: "srivatsan18",
+      linkedin: "/srivatsan-murali-009479b6",
     },
   },
   plugins: [
