@@ -5,11 +5,12 @@ module.exports = {
       name: `Srivatsan Murali`,
       summary: `An Undergraduate Student who loves Learning`,
     },
-    description: `Learning the art of Blogging.`,
+    description: `Love Learning`,
     siteUrl: `https://srivatsanmuraliblog.netlify.com`,
     social: {
       twitter: `SrivatsanMurali`,
       instagram: "srivatsan18",
+      linkedin: "SrivatsanMurali",
     },
   },
   plugins: [
@@ -67,7 +68,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/scrosri.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
