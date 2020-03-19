@@ -6,7 +6,7 @@ description: The Love Story
 
 Machine Learning from its definition is defined as "Field of Study that gives Computers the <u>The ability to learn without being Programmed</u>."
 From this definition i was astonished computers learn.
-So far we are have been hearning that computers don't have brain but now after seeing the definition it says computers learn so they have brain too, so i thought machine learning is God of Computer Science literally not God but its like a doctor who has implanted brain to a computer. So computers don't need rest and now they have brain.<i>"So &nbsp;it&nbsp; could &nbsp;solve most of our problems"</i> was my first thought. This thought came to me in 2018 by the time AI/ML was new but many applications were developed such as
+So far we have been hearning that computers don't have brain but now after seeing the definition it says computers learn so they have brain too, so i thought machine learning is God of Computer Science literally not God but its like a doctor who has implanted brain to a computer. So computers don't need rest and now they have brain.<i>"So &nbsp;it&nbsp; could &nbsp;solve most of our problems"</i> was my first thought. This thought came to me in 2018 by the time AI/ML was new but many applications were developed such as
 
 <ol>
   <li> Google News which uses Machine Learning Algorithms </li>
