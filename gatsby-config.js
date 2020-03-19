@@ -5,11 +5,12 @@ module.exports = {
       name: `Srivatsan Murali`,
       summary: `An Undergraduate Student who loves Learning`,
     },
-    description: `Learning the art of Blogging.`,
+    description: `Love Learning`,
     siteUrl: `https://srivatsanmuraliblog.netlify.com`,
     social: {
       twitter: `SrivatsanMurali`,
       instagram: "srivatsan18",
+      linkedin: "SrivatsanMurali",
     },
   },
   plugins: [
